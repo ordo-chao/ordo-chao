@@ -26,9 +26,16 @@ Welcome to my GitHub! I'm a passionate and creative developer based in Kenya, cu
 
 ---
 
+## 📊 GitHub Stats
+
+![Benedict's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ordo-chao&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ordo-chao&layout=compact&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ordo-chao&theme=github-dark)](https://git.io/streak-stats)
+
+---
+
 ## 📫 Let's Connect!
 - Email: princebenedictwachira@gmail.com  
-- LinkedIn: [Your LinkedIn Link]  
 - WhatsApp: +254741414892
 
 ---
