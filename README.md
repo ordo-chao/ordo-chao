@@ -5,10 +5,10 @@
 Welcome to my GitHub! I'm a passionate and creative developer based in Kenya, currently pursuing a degree in Applied Computer Science. I specialize in:
 
 - 🖥️ **Frontend Web Development**: HTML, CSS, JavaScript, React  
-- 📱 **Mobile App Development**: React Native (CLI & Android Studio)  
+- 📱 **Mobile App Development**: React Native (CLI & Android Studio), **Flutter**  
 - 🔬 **Image Processing & Machine Learning**: MATLAB + Node.js integration  
-- ⚙️ **Backend Development & DevOps**: Node.js, Express, REST APIs, Docker, CI/CD  
-- 🐍 **Programming & Scripting**: Python  
+- ⚙️ **Backend Development & DevOps**: Node.js, Express, REST APIs, **Redis**, **BullMQ**, Docker, CI/CD  
+- 🐍 **Programming & Scripting**: Python, Dart  
 - 🛢️ **Databases**: MySQL, MongoDB, PostgreSQL
 
 ---
@@ -20,13 +20,19 @@ Welcome to my GitHub! I'm a passionate and creative developer based in Kenya, cu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat&logo=npm&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
