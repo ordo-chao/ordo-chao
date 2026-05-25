@@ -1,22 +1,22 @@
-# 👋 Hi, I'm Prince Benedict Wachira
+# Hi, I'm Prince Benedict Wachira
 
-## 💻 Software Developer | 📱 Mobile Dev Enthusiast | ⚙️ DevOps Practitioner | 🎓 Applied Computer Science Student at Daystar University
+## Software Developer | Mobile Dev Enthusiast | DevOps Practitioner | Applied Computer Science Student at Daystar University
 
 Welcome to my GitHub! I'm a passionate and creative developer based in Kenya, currently pursuing a degree in Applied Computer Science. I specialize in:
 
-- 🖥️ **Frontend Web Development**: HTML, CSS, JavaScript, React  
-- 📱 **Mobile App Development**: React Native (CLI & Android Studio), **Flutter**  
-- 🔬 **Image Processing & Machine Learning**: MATLAB + Node.js integration  
-- ⚙️ **Backend Development**: Node.js, Express, REST APIs, **Golang**, Microservices  
-- ☁️ **DevOps & Cloud Infrastructure**: Docker, **Kubernetes**, **ArgoCD**, CI/CD, GitOps  
-- 📨 **Message Queues & Distributed Systems**: **RabbitMQ**, Redis, **BullMQ**  
-- 🔧 **DevOps Workflows & Automation**: Git workflows, **Blacksmith CI**, GitHub Actions  
-- 🐍 **Programming & Scripting**: Python, Dart  
-- 🛢️ **Databases**: MySQL, MongoDB, PostgreSQL  
+- **Frontend Web Development**: HTML, CSS, JavaScript, React  
+- **Mobile App Development**: React Native (CLI & Android Studio), **Flutter**  
+- **Image Processing & Machine Learning**: MATLAB + Node.js integration  
+- **Backend Development**: Node.js, Express, REST APIs, **Golang**, Microservices  
+- **DevOps & Cloud Infrastructure**: Docker, **Kubernetes**, **ArgoCD**, CI/CD, GitOps  
+- **Message Queues & Distributed Systems**: **RabbitMQ**, Redis, **BullMQ**  
+- **DevOps Workflows & Automation**: Git workflows, **Blacksmith CI**, GitHub Actions  
+- **Programming & Scripting**: Python, Dart  
+- **Databases**: MySQL, MongoDB, PostgreSQL  
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -53,7 +53,7 @@ Welcome to my GitHub! I'm a passionate and creative developer based in Kenya, cu
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Benedict's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ordo-chao&show_icons=true&count_private=true&theme=github_dark)
 
@@ -63,7 +63,7 @@ Welcome to my GitHub! I'm a passionate and creative developer based in Kenya, cu
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 - Email: princebenedictwachira@gmail.com  
 - WhatsApp: +254741414892  
@@ -71,5 +71,5 @@ Welcome to my GitHub! I'm a passionate and creative developer based in Kenya, cu
 
 ---
 
-> _“Code is like art: clean, powerful, and meant to express.”_ 🎨  
+> _“Code is like art: clean, powerful, and meant to express.”_ 
 Thanks for stopping by!
