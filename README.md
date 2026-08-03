@@ -59,7 +59,7 @@ Welcome to my GitHub! I'm a passionate and creative developer based in Kenya, cu
 
 - Email: princeben9312@gmail.com
 - WhatsApp: +254741414892  
-- LinkedIn: [https://www.linkedin.com/in/princebenedictwachira/](https://www.linkedin.com/in/prince-benedict-491776299/)
+- LinkedIn: [https://www.linkedin.com/in/ordo-chao/](https://www.linkedin.com/in/ordo-chao/)
 
 ---
 
