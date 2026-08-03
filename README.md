@@ -53,13 +53,6 @@ Welcome to my GitHub! I'm a passionate and creative developer based in Kenya, cu
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ordo-chao&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
----
-
-## Let's Connect!
-
-- Email: princeben9312@gmail.com
-- WhatsApp: +254741414892  
-- LinkedIn: [https://www.linkedin.com/in/ordo-chao/](https://www.linkedin.com/in/ordo-chao/)
 
 ---
 
