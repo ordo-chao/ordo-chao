@@ -45,16 +45,5 @@ Welcome to my GitHub! I'm a passionate and creative developer based in Kenya, cu
 
 ---
 
-## GitHub Stats
-
-![Benedict's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ordo-chao&show_icons=true&count_private=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ordo-chao&layout=compact&theme=github_dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ordo-chao&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
-
----
-
 > _“Code is like art: clean, powerful, and meant to express.”_ 
 Thanks for stopping by!
