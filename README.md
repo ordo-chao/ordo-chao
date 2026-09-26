@@ -1,13 +1,13 @@
 # Hi, I'm Prince Benedict Wachira
 
-## Software Developer | Mobile Dev Enthusiast | DevOps Practitioner | Applied Computer Science Student at Daystar University
+## Software Developer | Mobile Dev Enthusiast | DevOps Practitioner | Applied Computer Science Alumini at Daystar University
 
-Welcome to my GitHub! I'm a passionate and creative developer based in Kenya, currently pursuing a degree in Applied Computer Science. I specialize in:
+Welcome to my GitHub! I'm a passionate and creative developer based in Kenya,with a degree in Applied Computer Science. I specialize in:
 
 - **Frontend Web Development**: HTML, CSS, JavaScript, React  
 - **Mobile App Development**: React Native (CLI & Android Studio)
 - **Image Processing & Machine Learning**: MATLAB + Node.js integration  
-- **Backend Development**: Node.js, Express, REST APIs, **Golang**, Microservices  
+- **Backend Development**: Node.js, Express, REST APIs, **Golang**, Microservices , Python
 - **DevOps & Cloud Infrastructure**: Docker, **Kubernetes**, **ArgoCD**, CI/CD, GitOps  
 - **Message Queues & Distributed Systems**: **RabbitMQ**, Redis, **BullMQ**  
 - **DevOps Workflows & Automation**: Git workflows, **Blacksmith CI**, GitHub Actions  
