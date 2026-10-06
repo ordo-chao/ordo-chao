@@ -1,4 +1,4 @@
-# Hi, I'm Prince Benedict Wachira
+# I'm Prince Benedict Wachira
 
 ## Software Developer | Mobile Dev Enthusiast | DevOps Practitioner | Applied Computer Science Alumini at Daystar University
 
@@ -46,4 +46,3 @@ Welcome to my GitHub! I'm a passionate and creative developer based in Kenya,wit
 ---
 
 > _“Code is like art: clean, powerful, and meant to express.”_ 
-Thanks for stopping by!
