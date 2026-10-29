@@ -44,8 +44,6 @@ Welcome to my GitHub! I'm a passionate and creative developer based in Kenya,wit
 
 ---
 
-###  Contribution Graph
-
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ordo-chao&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
