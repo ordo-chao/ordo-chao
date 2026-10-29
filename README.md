@@ -53,11 +53,5 @@ Welcome to my GitHub! I'm a passionate and creative developer based in Kenya,wit
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ordo-chao&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-</p>
-
----
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=880&height=44&lines=Code%20is%20like%20art%3A%20clean%2C%20powerful%2C%20and%20meant%20to%20express." alt="Typing headlines" />
 </p>
